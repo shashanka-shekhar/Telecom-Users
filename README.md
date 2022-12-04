@@ -23,6 +23,6 @@ This project uses python3, sklearn, numpy, pandas, imblearn, collections in kagg
 
 Models and techniques used :
 
-1.XGBClassifier and SVC.
+1. XGBClassifier and SVC.
 
-2.Over Sampling of one of the minority class was done using SMOTE.
+2. Over Sampling of one of the minority class was done using SMOTE.
